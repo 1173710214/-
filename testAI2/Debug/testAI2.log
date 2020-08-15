@@ -1,0 +1,272 @@
+﻿  strategy.cpp
+d:\workspace\testai1\testai1\testai2\strategy.cpp(41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\workspace\testai1\testai1\testai2\strategy.cpp(113): warning C4018: “<”: 有符号/无符号不匹配
+d:\workspace\testai1\testai1\testai2\strategy.cpp(158): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(159): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(160): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(163): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(164): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(165): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(168): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(169): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(170): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(216): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(217): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(218): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(223): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(224): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(225): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(230): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(231): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(232): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(243): warning C4018: “<”: 有符号/无符号不匹配
+d:\workspace\testai1\testai1\testai2\strategy.cpp(259): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\workspace\testai1\testai1\testai2\strategy.cpp(264): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\workspace\testai1\testai1\testai2\strategy.cpp(295): warning C4018: “<”: 有符号/无符号不匹配
+d:\workspace\testai1\testai1\testai2\strategy.cpp(317): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(318): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(319): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(322): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(323): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(324): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(337): warning C4018: “<”: 有符号/无符号不匹配
+d:\workspace\testai1\testai1\testai2\strategy.cpp(416): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(417): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(418): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(514): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(515): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(516): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(521): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(522): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(523): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(528): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(529): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(530): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(535): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(536): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(537): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(542): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(543): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(544): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(549): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(550): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(551): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(660): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\workspace\testai1\testai1\testai2\strategy.cpp(661): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\workspace\testai1\testai1\testai2\strategy.cpp(667): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\workspace\testai1\testai1\testai2\strategy.cpp(668): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\workspace\testai1\testai1\testai2\strategy.cpp(673): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(674): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(675): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(678): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(679): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(680): warning C4244: “=”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+d:\workspace\testai1\testai1\testai2\strategy.cpp(695): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\workspace\testai1\testai1\testai2\strategy.cpp(696): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\workspace\testai1\testai1\testai2\strategy.cpp(702): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\workspace\testai1\testai1\testai2\strategy.cpp(703): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  testAI2.vcxproj -> D:\workspace\testAI1\testAI1\Debug\testAI2.exe

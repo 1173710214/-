@@ -1,0 +1,8 @@
+﻿  main.cpp
+  search.cpp
+  strategy.cpp
+d:\workspace\testai1\testai1\manipulator\strategy.cpp(121): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  All 28 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  manipulator.vcxproj -> D:\workspace\testAI1\testAI1\Release\manipulator.exe
